@@ -1,0 +1,29 @@
+body{background-color: rgb(6, 158, 145);
+display: flex;
+justify-content: center;
+align-items: center}
+.Dhaba{border-radius: 4cqmax;border-block-width: 5cm;
+background-color: rgb(86, 219, 177);
+margin-right: 1ch;
+margin-left: 1ch;
+padding-left: 20px;
+padding-bottom: 30px;
+
+
+
+}
+
+select{border-radius: 5cqmax;
+background-color: rgb(51, 202, 146);
+margin-right: 1ch;
+margin-left: 1ch;}
+input{background-color: rgb(112, 194, 175); 
+border-radius: 1cqmax;}
+#Ghar{border-radius: 4cqmax;border-block-width: 5cm;
+background-color: rgb(112, 218, 193);
+margin-right: 1ch;
+margin-left: 1ch;
+padding-left: 20px;
+
+padding-top: 2%;}
+h2{text-align: cent
